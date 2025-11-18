@@ -99,8 +99,8 @@ Um aplicativo inteligente que:
 ---
 
 ## 🔁 Fluxo Simplificado do DermaIA
-1. Usuário tira foto da mancha. 
-2. IA analisa com modelo de Deep Learning. 
+1. Usuário tira foto da mancha.
+2. IA analisa com modelo de Deep Learning.
 3. Resultado:
    - **Baixa sugestão** → acompanhamento + lembretes.
    - **Alta sugestão** → mapa de hospitais + telemedicina.
@@ -120,3 +120,5 @@ Um aplicativo inteligente que:
 **DermaIA – Projeto de IA para apoio à saúde dermatológica.**
 
 Se quiser adicionar: identidade visual, diagrama, prints, versão em PDF ou mais detalhes técnicos, posso gerar também.
+
+
