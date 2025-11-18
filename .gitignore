@@ -1,0 +1,14 @@
+# Modelos específicos
+modelo_3_cancer/
+modelo_2_cancer.keras
+modelo_cancer.zip
+pesos_modelo_1_cancer.weights.h5
+
+# Ignorar todos tipos de modelos
+*.h5
+*.keras
+*.onnx
+*.zip
+*.pb
+*.pth
+*.tflite
